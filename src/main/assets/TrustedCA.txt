@@ -1,0 +1,126 @@
+(c) 2005 TÜRKTRUST Bilgi İletişim ve Bilişim Güvenliği Hizmetleri A.Ş.
+A-Trust
+A-Trust Ges. f. Sicherheitssysteme im elektr. Datenverkehr GmbH
+AC Camerfirma S.A.
+AC Camerfirma SA CIF A82743287
+ACCV
+Actalis S.p.A./03358520967
+AddTrust AB
+AffirmTrust
+Agencia Catalana de Certificacio (NIF Q-0801176-I)
+America Online Inc.
+AOL Time Warner Inc.
+Apple Computer, Inc.
+Apple Inc.
+AS Sertifitseerimiskeskus
+Atos
+Autoridad de Certificacion Firmaprofesional
+Baltimore
+Buypass AS-983163327
+Certinomis
+Certplus
+certSIGN
+China Financial Certification Authority
+China Internet Network Information Center
+Chunghwa Telecom Co., Ltd.
+Cisco Systems
+CNNIC
+Comodo CA Limited
+COMODO CA Limited
+ComSign
+ComSign Ltd.
+Cybertrust, Inc
+D-Trust GmbH
+Deutsche Telekom AG
+Deutscher Sparkassen Verlag GmbH
+Dhimyotis
+DigiCert Inc
+Digital Signature Trust
+Digital Signature Trust Co.
+Disig a.s.
+E-Tuğra EBG Bilişim Teknolojileri ve Hizmetleri A.Ş.
+EBG Bilişim Teknolojileri ve Hizmetleri A.Ş.
+Echoworx Corporation
+EDICOM
+Elektronik Bilgi Guvenligi A.S.
+Entrust, Inc.
+Entrust.net
+Equifax
+Equifax Secure
+Equifax Secure Inc.
+FNMT
+Generalitat Valenciana
+GeoTrust Inc.
+GlobalSign
+GlobalSign nv-sa
+GoDaddy.com, Inc.
+Government Root Certification Authority
+GTE Corporation
+Hellenic Academic and Research Institutions Cert. Authority
+Hongkong Post
+IdenTrust
+IPS Certification Authority s.l. ipsCA
+IZENPE S.A.
+IZENPE S.A. - CIF A-01337260-RMerc.Vitoria-Gasteiz T1055 F62 S8
+Japan Certification Services, Inc.
+Japanese Government
+JPKI
+KISA
+Krajowa Izba Rozliczeniowa S.A.
+LGPKI
+KMD
+Microsec Ltd.
+NetLock Halozatbiztonsagi Kft.
+NetLock Kft.
+Network Solutions L.L.C.
+PM/SGDN
+První certifikační autorita, a.s.
+QuoVadis Limited
+RSA Security Inc
+SECOM Trust Systems CO.,LTD.
+SECOM Trust.net
+SecureTrust Corporation
+SG TRUST SERVICES
+Sistema Nacional de Certificacion Electronica
+Sociedad Cameral de Certificación Digital - Certicámara S.A.
+Sonera
+Sony Computer Entertainment Inc.
+Sony Ericsson Mobile Communications AB
+Staat der Nederlanden
+Starfield Technologies, Inc.
+StartCom Ltd.
+Symantec Corporation
+Swisscom
+SwissSign AG
+T-Systems Enterprise Services GmbH
+TAIWAN-CA
+TC TrustCenter for Security in Data Networks GmbH
+TC TrustCenter GmbH
+TDC
+TDC Internet
+TeliaSonera
+thawte, Inc.
+Thawte
+Thawte Consulting
+Thawte Consulting cc
+The Go Daddy Group, Inc.
+The USERTRUST Network
+Trustis Limited
+TRUST2408
+Türkiye Bilimsel ve Teknolojik Araştırma Kurumu - TÜBİTAK
+TÜRKTRUST Bilgi İletişim ve Bilişim Güvenliği Hizmetleri A.Ş. (c) Aralık 2007
+TÜRKTRUST Bilgi İletişim ve Bilişim Güvenliği Hizmetleri A.Ş. (c) Kasım 2005
+UniTrust
+Unizeto Sp. z o.o.
+Unizeto Technologies S.A.
+U.S. Government
+Vaestorekisterikeskus CA
+ValiCert, Inc.
+VAS Latvijas Pasts - Vien.reg.Nr.40003052790
+VeriSign, Inc.
+VISA
+Wells Fargo
+Wells Fargo WellsSecure
+WISeKey
+WoSign CA Limited
+XRamp Security Services Inc
